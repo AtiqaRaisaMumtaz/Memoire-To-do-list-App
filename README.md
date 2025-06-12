@@ -52,7 +52,7 @@ Atiqa Raisa Mumtaz - 2390343019
 
 ### 🟣 Loading Screen
 
-![Loading](assets/screenshots/Loading.png.jpeg)
+![Loading](assets/screenshots/Loading.png)
 
 ---
 
