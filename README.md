@@ -52,7 +52,7 @@ Atiqa Raisa Mumtaz - 2390343019
 
 ### 🟣 Loading Screen
 
-![Loading](assets/screenshots/Loading.png)
+![Loading](assets/screenshots/Loading.jpeg)
 
 ---
 
@@ -60,11 +60,11 @@ Atiqa Raisa Mumtaz - 2390343019
 
 | Login Light | Login Dark |
 |-------------|------------|
-| ![Login_Light](assets/screenshots/Login_Light.png.jpeg) | ![Login_Dark](assets/screenshots/Login_Dark.png.jpeg) |
+| ![Login_Light](assets/screenshots/Login_Light.jpeg) | ![Login_Dark](assets/screenshots/Login_Dark.jpeg) |
 
 | Register Light | Register Dark |
 |----------------|---------------|
-| ![Register_Light](assets/screenshots/Register_Light.png.jpeg) | ![Register_Dark](assets/screenshots/Register_Dark.png.jpeg) |
+| ![Register_Light](assets/screenshots/Register_Light.jpeg) | ![Register_Dark](assets/screenshots/Register_Dark.jpeg) |
 
 ---
 
@@ -72,7 +72,7 @@ Atiqa Raisa Mumtaz - 2390343019
 
 | Home Light | Home Dark |
 |------------|-----------|
-| ![Home_Light](assets/screenshots/Home_Light.png.jpeg) | ![Home_Dark](assets/screenshots/Home_Dark.png.jpeg) |
+| ![Home_Light](assets/screenshots/Home_Light.jpeg) | ![Home_Dark](assets/screenshots/Home_Dark.jpeg) |
 
 ---
 
@@ -80,7 +80,7 @@ Atiqa Raisa Mumtaz - 2390343019
 
 | Edit Tugas Light | Edit Tugas Dark |
 |------------------|-----------------|
-| ![EditTugas_Light](assets/screenshots/EditTugas_Light.png.jpeg) | ![EditTugas_Dark](assets/screenshots/EditTugas_Dark.png.jpeg) |
+| ![EditTugas_Light](assets/screenshots/EditTugas_Light.jpeg) | ![EditTugas_Dark](assets/screenshots/EditTugas_Dark.jpeg) |
 
 ---
 
@@ -88,7 +88,7 @@ Atiqa Raisa Mumtaz - 2390343019
 
 | Profil Light | Profil Dark |
 |--------------|-------------|
-| ![Profil_Light](assets/screenshots/Profil_Light.png.jpeg) | ![Profil_Dark](assets/screenshots/Profil_Dark.png.jpeg) |
+| ![Profil_Light](assets/screenshots/Profil_Light.jpeg) | ![Profil_Dark](assets/screenshots/Profil_Dark.jpeg) |
 
 ---
 
@@ -96,7 +96,7 @@ Atiqa Raisa Mumtaz - 2390343019
 
 | Edit Profil Light | Edit Profil Dark |
 |-------------------|------------------|
-| ![EditProfil_Light](assets/screenshots/EditProfil_Light.png.jpeg) | ![EditProfil_Dark](assets/screenshots/EditProfil_Dark.png.jpeg) |
+| ![EditProfil_Light](assets/screenshots/EditProfil_Light.jpeg) | ![EditProfil_Dark](assets/screenshots/EditProfil_Dark.jpeg) |
 
 ---
 
