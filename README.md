@@ -2,7 +2,7 @@
 
 ## 👤 Nama:
 
-Atiqah Raisa Mumtaz
+Atiqa Raisa Mumtaz - 2390343019
 
 ---
 
